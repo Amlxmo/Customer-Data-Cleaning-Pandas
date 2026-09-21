@@ -1,0 +1,669 @@
+Customer_ID,Customer_Name,Country,City,Age,Signup_Date,Customer_Segment,Annual_Spend_DKK,Orders,Email,Active
+10029,Elias Hussein,Denmark,Aarhus,51.0,2026-06-12,Basic,11882.96,10,user10029@example.com,Yes
+10219,Elias Holm,Germany,,,2025-04-17,Standard,6609.73,27,user10219@example.com,Yes
+10060,Sofia Petersen,Denmark,Odense,26.0,2026-04-29,Standard,12872.17,33,user10060@example.com,Yes
+10032,Sofia Rossi,Germany,Berlin,54.0,10/11/2025,Standard,,17,user10032@example.com,Yes
+10251,Mathias Poulsen,Sweden,Stockholm,28.0,2024-02-25,Premium,9641.62,12,user10251@example.com,No
+10472,Daniel Martin,Denmark,Aalborg,43.0,2025-06-08,Premium,2541.67,16,user10472@example.com,Yes
+10103,Mathias Poulsen,DK, Copenhagen ,29.0,2024-04-05,Standard,"17,827.26 DKK",20,user10103@example.com,Yes
+10439,  Emma Jensen ,Sweden,Gothenburg,33.0,2026-05-20,Basic,2421.67,28,user10439@example.com,Yes
+10487,Lucas Kristensen,Denmark,Odense,27.0,2024-12-07,Standard,9325.31,25,USER10487@EXAMPLE.COM,No
+10643,Nora Eriksson,Denmark,Odense,66.0,2025-01-27,Standard,9933.59,18,user10643@example.com,Yes
+10195,Emily Wilson,Denmark,Copenhagen,21.0,06/04/2026,Standard,8684.79,31,user10195@example.com,No
+10194,Emil Johansson,Norway,Bergen,46.0,2024-07-17,Basic,11823.53,25,user10194@example.com,Yes
+10420,Amina Hassan,Germany,Hamburg,58.0,2024-07-14,Standard,13996.86,15,user10420@example.com,Yes
+10422,Lucas Garcia,Denmark,,25.0,2024-03-26,Standard,,18,user10422@example.com,N
+10167,Noah Khan,Norway,Bergen,37.0,2025-07-08,Standard,3089.42,3,USER10167@EXAMPLE.COM,Yes
+10205,Yasmin Ahmed,Denmark,Odense,27.0,2026-01-06,Standard,17898.44,9,,Yes
+10448,Daniel Martin,Sweden,Malmö,59.0,2025-01-06,Premium,23978.06,2,user10448@example.com,Yes
+10443,Maya Lindberg,Sweden,Stockholm,,2024-06-24,Standard,11016.63,18,user10443@example.com,Yes
+10572,Ida Sørensen,Norway,Oslo,68.0,2024-01-10,Standard,24899.3,16,user10572@example.com,YES
+10623,Leo Wagner,Germany,Berlin,59.0,2026-02-17,Basic,,25,user10623@example.com,Yes
+10522,Elena Müller,Denmark,Aarhus,71.0,2024-10-24,Basic,3082.47,17,user10522@example.com,Yes
+10465,Yasmin Ahmed,Denmark,Copenhagen,56.0,2025-10-14,Standard,"4,706.87 DKK",2,user10465@example.com,Yes
+10373,Laura Thomsen,Denmark,København,50.0,unknown,Standard,18969.47,17,user10373@example.com,yes
+10636,Freja Møller,Denmark,Odense,48.0,07/01/2025,Standard,11967.22,27,user10636@example.com,Yes
+10078,Elena Müller,Sweden,Gothenburg,65.0,2024-07-08,Standard,16280.63,5,user10078@example.com,Yes
+10390,Oliver Hansen,Norway,Oslo,41.0,2025-07-11,Premium,"7,077.11 DKK",30,user10390@example.com,Yes
+10549,Amina Hassan,Norway,Oslo,71.0,2024-01-10,Basic,14033.73,4,user10549@example.com,Yes
+10017,Sofia Rossi,Denmark,Copenhagen,71.0,2025-10-26,Standard,11278.94,27,user10017@example.com,Yes
+10375,Sofia Rossi,Denmark,Odense,18.0,2026-01-19,Standard,,11,user10375@example.com,Yes
+10452,Victor Lindström,Germany,Berlin,27.0,2024-07-26,Basic,999999,15,user10452@example.com,Yes
+10128,Amira Khalil,Denmark,Copenhagen,20.0,2025-06-08,Premium,14331.71,8,user10128@example.com,Yes
+10236,Mads Nielsen,Norway,Oslo,47.0,2024-01-25,Premium,14764.76,16,user10236@example.com,Yes
+10533,Yasmin Ahmed,Denmark,Aarhus,59.0,2024-04-04,Premium,7498.83,33,user10533@example.com,Yes
+10647,Freja Møller,Denmark,Odense,59.0,2025-04-24,Premium,"8,601.54 DKK",16,user10647@example.com,Yes
+10387,Oscar Berg,Sweden,Stockholm,58.0,2025-05-01,Basic,14145.06,30,user10387@example.com,Yes
+10515,Victor Lindström,Denmark,Copenhagen,37.0,2025-01-06,Standard,4897.39,7,user10515@example.com,No
+10022,Laura Thomsen,Denmark,Aalborg,39.0,2025-01-05,Basic,12198.48,2,user10022@example.com,Yes
+10321,Laura Thomsen,Germany,Hamburg,35.0,2025-12-20,Standard,4147.24,4,user10321@example.com,Yes
+10426,Daniel Brown,Norway,Bergen,51.0,2025-01-23,Premium,3998.98,1,user10426@example.com,Yes
+10216,Adam Hassan,Sweden,Gothenburg,23.0,2025-11-05,Standard,4500000,18,user10216@example.com,No
+10456,Anna Schmidt,Denmark,Aalborg,43.0,2025-03-26,Standard,17411.59,9,user10456@example.com,Yes
+10031,Oscar Berg,Sweden,Stockholm,68.0,2024-03-19,Basic,19844.84,14,user10031@example.com,Yes
+10023,Sara Mohamed,Germany,Berlin,23.0,2025-08-10,Basic,16574.03,21,user10023@example.com,No
+10139,Anna Schmidt,Norway,,44.0,2024-09-17,Standard,15041.35,25,user10139@example.com,Yes
+10245,Alexander Rasmussen,Sweden,Stockholm,42.0,2026-04-15,Standard,11800.78,18,user10245@example.com,No
+10340,Laura Thomsen,Germany,Hamburg,27.0,2026-03-29,Standard,16629.31,29,user10340@example.com,No
+10147,Adam Hassan,Denmark,Aalborg,30.0,2025-02-12,Premium,5800.03,23,user10147@example.com,Yes
+10516,Sofie Larsen,Denmark,Aarhus,44.0,2025-01-02,Basic,19595.98,25,user10516@example.com,Yes
+10346,Mathias Poulsen,Norway,Bergen,23.0,2024-09-17,Premium,4281.33,11,user10346@example.com,Yes
+10263,Alexander Rasmussen,Denmark,Odense,63.0,2024-04-25,Basic,10288.84,23,user10263@example.com,Yes
+10141,Daniel Brown,Denmark,Aalborg,,2024-08-15,Standard,11954.19,29,user10141@example.com,Yes
+10607,Mathias Poulsen,Norway,Bergen,71.0,2024-11-19,Premium,8423.5,25,user10607@example.com,Yes
+10207,Amira Khalil,Denmark,Copenhagen,33.0,06/11/2025,Premium,8606.0,15,user10207@example.com,Yes
+10135,ANNA SCHMIDT,Sweden,Malmö,42.0,2025-12-19,Standard,4515.04,30,user10135@example.com,Yes
+10351,Lucas Kristensen,Sweden,Malmö,19.0,2025-02-04, Premium,5247.34,12,user10351@example.com,Yes
+10297,Maya Patel,Germany,Berlin,53.0,2025-01-03,Standard,7272.99,14,user10297@example.com,Yes
+10371,Elena Müller,Norway,Oslo,51.0,2026-06-15,Premium,8269.2,21,user10371@example.com,Yes
+10090,Amira Khalil,Denmark,Copenhagen,71.0,2026-02-19,Basic,5475.26,6,user10090@example.com,Yes
+10520,Mathias Poulsen,Norway,Oslo,64.0,2024-10-27,Standard,12340.09,24,user10520@example.com,Yes
+10372,Adam Ali,Denmark,Aarhus,20.0,2024-07-19,Premium,14963.57,32,user10372@example.com,Yes
+10212,Alexander Rasmussen,Sweden,Malmö,33.0,2026-04-30,Standard,"11,986.96 DKK",17, user10212@example.com ,Yes
+10240,Lina Osman,Denmark,Odense,70.0,2025-10-01,Basic,,5,user10240@example.com,Yes
+10158,Maya Lindberg,Sweden,Malmö,52.0,28/07/2025,Basic,21241.29,13,user10158@example.com,Yes
+10231,Oliver Hansen,Denmark,ODENSE,67.0,2025-12-20,Basic,8577.42,19,user10231@example.com,Yes
+10379,Amira Khalil,Denmark,aarhus,33.0,2026-01-30,Standard,13964.99,31,user10379@example.com,No
+10165,Nora Eriksson,Denmark,Odense,29.0,2025-06-21,Premium,13650.58,20,user10165@example.com,Yes
+10364,ADAM ALI,Denmark,,21.0,07/03/2024,Premium,12534.33,31, user10364@example.com ,Yes
+10112,Adam Ali,Denmark,Odense,19.0,2025-11-01,Standard,15809.72,17,user10112@example.com,Yes
+10565,Leo Wagner,Sweden,Malmö,24.0,2024-12-10,Standard,12579.08,32,user10565@example.com,Yes
+10501,Clara Andersen,Sweden,Gothenburg,37.0,2025-06-07,Standard,13006.26,9,user10501@example.com,No
+10431,Daniel Brown,Germany,Hamburg,57.0,30/09/2025,Basic,3178.88,26,user10431@example.com,Yes
+10484,Leila Osman,Denmark,Copenhagen,31.0,2026-04-19,Standard,9015.54,22,user10484@example.com,No
+10186,Nora Eriksson,Sweden,Gothenburg,24.0,29/06/2025,Standard,"24,080.01 DKK",19,user10186@example.com,Yes
+10305,Sofie Larsen,Norway,Oslo,53.0,2025-01-08,Basic,11603.01,28,user10305@example.com,Yes
+10124,Maya Patel,Denmark,Copenhagen,38.0,2025-03-28,Basic,9967.02,13,user10124@example.com,Yes
+10374,Elena Müller,Denmark,Odense,70.0,31/01/2025,Premium,16683.09,18,user10374@example.com,No
+10286,Anna Schmidt,DK,Aalborg,26.0,2024-03-07,Basic,18259.74,27,user10286@example.com,Yes
+10179,Alexander Rasmussen,Germany,Hamburg,38.0,2025-12-02,Premium,10693.98,7,user10179@example.com,Yes
+10315,Clara Andersen,DENMARK,Aarhus,39.0,04/12/2025,Standard,5122.23,6,user10315@example.com,Yes
+10475,Elena Müller,Denmark,Copenhagen,49.0,2024-01-08,Basic,"16,429.84 DKK",23,user10475@example.com,Yes
+10645,Daniel Martin,Sweden,Malmö,57.0,2025-07-01,Standard,16313.16,15,USER10645@EXAMPLE.COM,Yes
+10569,mads nielsen,Denmark,Aarhus,62.0,2025-07-18,Standard,11018.15,24,user10569@example.com,N
+10353,Clara Andersen,Denmark,Odense,68.0,2024-05-19,Standard,,18,user10353@example.com,Yes
+10174,Ida Sørensen,Germany,Berlin,56.0,2024-12-10,Premium,"11,045.05 DKK",21,user10174@example.com,Yes
+10356,Alexander Rasmussen,Denmark,Aarhus,71.0,2024-05-01,Standard,11295.62,11,user10356@example.com,Yes
+10272,Sofia Petersen,Denmark,Aarhus,70.0,2024-10-25,Standard,7712.7,14,user10272@example.com,Yes
+10401,Laura Thomsen,Denmark,Odense,,2024-04-18,Premium,3777.89,14,user10401@example.com,Yes
+10416,Victor Lindström,Denmark,Aarhus,42.0,2025-02-09,Standard,11979.03,25,user10416@example.com,Yes
+10408,Amira Khalil,Norway,Oslo,40.0,09/04/2026,PREMIUM,"6,524.31 DKK",18,user10408@example.com,No
+10430,Sofie Larsen,Norway,Bergen,66.0,22/10/2025,Standard,6142.97,30,user10430@example.com,Yes
+10345,William Pedersen,Norway,,62.0,2024-08-11,Standard,4761.34,7,user10345@example.com,Yes
+10043,Sofie Larsen,Sweden,Malmö,28.0,2024-08-02,Standard,9457.17,29,user10043@example.com,Yes
+10428,Adam Ali,Norway,Oslo,58.0,2025-11-23,Standard,6564.18,18,missing-at-sign.com,Yes
+10035,Sara Mohamed,Denmark,Odense,22.0,2025-01-07,Standard,4656.53,13,user10035@example.com,Yes
+10066,Emma Jensen,Denmark,Copenhagen,46.0,2026-02-01,Standard,20050.72,21,user10066@example.com,Yes
+10273,Lucas Garcia,Denmark,Aarhus,62.0,"Jan 15, 2026",Standard,"14,762.68 DKK",15,user10273@example.com,Yes
+10069,Leila Osman,Denmark,Odense,22.0,2024-08-18,Standard,13242.5,5,user10069@example.com,No
+10311,Daniel Brown,Denmark,Aarhus,24.0,2024-03-02,Standard,13485.44,2,user10311@example.com,Yes
+10168,Daniel Martin,Norway,Bergen,71.0,2026-02-26,Premium,2325.46,17,user10168@example.com,Yes
+10370,Lucas Garcia,Germany,Berlin,52.0,"Mar 19, 2024",Basic,2600.36,25,user10370@example.com,Yes
+10044,Adam Ali,Denmark,Odense,43.0,2024-09-17,Premium,20304.98,7,user10044@example.com,Yes
+10546,Lina Osman,Denmark,,47.0,2024-09-04,Standard,17003.6,18,user10546@example.com,No
+10198,Daniel Brown,Germany,Berlin,48.0,2025-05-22,Basic,"1,469.62 DKK",7,user10198@example.com,Yes
+10002,Emily Wilson,Denmark,Odense,29.0,03/11/2025,Premium,15094.06,32,user10002@example.com,Yes
+10003,Elias Hussein,Norway,Oslo,60.0,2024-05-20,Basic,7870.16,3,user10003@example.com,Yes
+10482,Emil Johansson,Denmark,Odense,62.0,unknown,Standard,,14,user10482@example.com,Yes
+10048,Sofia Rossi,Denmark,Aalborg,60.0,2026-03-27,Standard,18196.4,8,USER10048@EXAMPLE.COM,Yes
+10622,Sara Mohamed,Denmark,Aalborg,31.0,2024-04-02,Standard,17293.41,27,user10622@example.com,Yes
+10323,Amira Khalil,Denmark,Copenhagen,24.0,2025-09-12,Basic,4540.2,16,user10323@example.com,Yes
+10121,Adam Hassan,Sweden,Malmö,51.0,2026-06-07,Basic,7114.52,8,user10121@example.com,Yes
+10159,Laura Thomsen,Sweden,Malmö,37.0,2025-08-16,Standard,10958.08,33,user10159@example.com,No
+10449,isabella romano,Denmark,København,,2024-09-17,Premium,3841.53,4,user10449@example.com,Yes
+10642,Laura Thomsen,Norway,Oslo,29.0,13/04/2026,Basic,8157.7,18,user10642@example.com,No
+10164,Clara Andersen,Denmark,Aalborg,19.0,25/03/2024,Standard,"20,842.81 DKK",19,user10164@example.com,no
+10109,Emma Jensen,Denmark,Copenhagen,57.0,2024-06-17,Premium,12148.82,23,,No
+10173,  Oscar Berg ,Denmark,Odense,28.0,2025-06-24,Standard,11981.2,9,user10173@example.com,Yes
+10640,IDA SØRENSEN,Norway,Oslo,20.0,2026-01-11,Standard,8717.3,17,user10640@example.com,NO
+10531,Sofia Petersen,Sweden,Stockholm,37.0,2024-02-20,Standard,12861.74,6,user10531@example.com,Yes
+10362,Lina Osman,Denmark,Aarhus,40.0,2025-09-06,Premium,5453.61,11,user10362@example.com,No
+10505,William Pedersen,Denmark,Aalborg,55.0,2024-02-03,Standard,9462.75,5,user10505@example.com,Yes
+10131,Maya Lindberg,Denmark,Aalborg,69.0,2026-01-18,Standard,16393.58,3,user10131@example.com,No
+10288,Oliver Hansen,DK,Copenhagen,21.0,29/04/2024,Standard,14827.58,10,user10288@example.com,Yes
+10525,Elena Müller,Denmark,Aarhus,41.0,2025-01-22,Standard ,25691.73,33,user10525@example.com,Yes
+10551,Oliver Hansen,Denmark,Odense,56.0,2026-04-10,Premium,9599.39,23,user10551@example.com,No
+10209,Nora Eriksson, Denmark ,aalborg,60.0,2026-01-27,Standard,13386.37,24,user10209@example.com,no
+10333,Oliver Hansen,Sweden,Malmö,26.0,"Jul 04, 2024",Standard,"8,536.00 DKK",23,user10333@example.com,Yes
+10563,Leo Wagner,Norway,Bergen,26.0,2025-08-30,Premium,24341.34,1,user10563@example.com,Yes
+10047,Nora Eriksson,Denmark,Odense,48.0,09/07/2024,Standard,"10,295.23 DKK",11,user10047@example.com,Yes
+10397,Maya Lindberg,Norway,Oslo,34.0,2025-07-31,basic,10081.85,19,,Yes
+10089,Victor Lindström,Denmark,aalborg,52.0,2026-02-11,Standard,11159.51,23,user10089@example.com,Yes
+10335,Emily Wilson,Denmark,Odense,61.0,08/11/2025,Premium,7598.37,17,user10335@example.com,No
+10096,Yasmin Ahmed,Sweden,Gothenburg,37.0,2025-11-14,Premium,4748.74,33,user10096@example.com,Yes
+10620,Sara Mohamed,Denmark,Aalborg,41.0,2025-10-02,Basic,8086.1,25,user10620@example.com,Yes
+10594,Sofia Rossi,Sweden,Stockholm,28.0,2024-09-27,Standard,11847.31,24,user10594@example.com,Yes
+10614,Daniel Brown,Germany,Hamburg,70.0,2025-07-03,Standard,12545.9,9,user10614@example.com,No
+10102,Alexander Rasmussen,Sweden,,60.0,"Apr 24, 2026",Premium,3384.06,7,user10102@example.com,Yes
+10460,Yasmin Ahmed,Sweden,Malmö,32.0,2026-02-03,Basic,24584.59,15,user10460@example.com,Yes
+10279,Sofie Larsen,Germany,Hamburg,65.0,2024-06-17,Premium,7133.78,26,user10279@example.com,Yes
+10497,  Omar Mohamed ,Denmark,Aalborg,-8.0,2025-02-08,Premium,12470.62,7,user10497@example.com,Yes
+10225,Lina Osman,Denmark,Aarhus,51.0,2024-09-25,Standard,21333.94,3,user10225@example.com,Yes
+10040,Emily Wilson,Sweden,Gothenburg,64.0,"Jun 15, 2024",Premium,21963.17,7,user10040@example.com,Yes
+10412,Maya Lindberg,Sweden,Gothenburg,45.0,2025-02-25,Premium,9969.62,28,user10412@example.com,Yes
+10018,Yasmin Ahmed,Denmark,Copenhagen,20.0,2025-09-13,Basic,12449.57,20,user10018@example.com,Yes
+10200,Leo Wagner,Denmark,Ålborg,39.0,22/03/2025,Premium,6744.69,11,user10200@example.com,N
+10041,Sara Mohamed,Denmark,ODENSE,30.0,2024-12-29,Premium,7022.45,12,user10041@example.com,No
+10138,maya patel,Denmark,Odense,28.0,2025-10-24,Standard,7655.94,15,user10138@example.com,No
+10481,Mads Nielsen,Denmark,Aarhus,41.0,2025-10-11,Standard ,"20,091.25 DKK",11,user10481@example.com,Yes
+10440,Ida Sørensen,Sweden,Gothenburg,28.0,2024-05-30,Premium,10976.26,2,user10440@example.com,Yes
+10509,Oliver Hansen,Denmark,Copenhagen,66.0,2024-03-13,Standard,6777.34,19,user10509@example.com,Yes
+10644,Mads Nielsen,Denmark,Aarhus,46.0,2024-06-30,Standard ,21110.76,25,user10644@example.com,Yes
+10312,William Pedersen,Denmark,Ålborg,22.0,2024-06-01,Basic,14338.46,6,user10312@example.com,Yes
+10204,Anna Schmidt,Denmark,Odense,21.0,2024-11-09,Basic,12702.43,28,user10204@example.com,no
+10410,Ida Sørensen,Germany,Hamburg,61.0,2025-03-20,Premium,18611.17,17,user10410@example.com,Yes
+10433,Elias Hussein,Sweden,Gothenburg,48.0,2024-07-12,Premium,6898.51,6,user10433@example.com,No
+10042,William Pedersen,Norway,Oslo,44.0,2025-02-21,Standard,11442.68,21,user10042@example.com,Yes
+10468,Maya Lindberg,Germany,Hamburg,56.0,2024-08-13,Standard,19926.14,31,user10468@example.com,YES
+10330,William Pedersen,Denmark,Odense,53.0,2024-03-10,Standard,,21,user10330@example.com,Yes
+10419,Emily Wilson,Denmark,Aarhus,50.0,2025-01-18,Standard,10222.34,2,user10419@example.com,Yes
+10178,Daniel Martin,Germany,Berlin,66.0,2026-03-06,Standard,5048.36,6,user10178@example.com,yes
+10386,Amina Hassan,Germany,Berlin,53.0,2025-03-01,Standard,8065.82,10,user10386@example.com,Yes
+10603,sofia rossi,Germany,Hamburg,59.0,2024-04-04,Standard,20973.19,29,user10603@example.com,Yes
+10155,Adam Ali,DENMARK,Aalborg,71.0,2024-12-19,Standard,,22,user10155@example.com,Yes
+10199,Maya Lindberg,Denmark,Aalborg,56.0,2025-06-28,Basic,19930.74,15,user10199@example.com,Yes
+10459,Adam Ali,Norway,Oslo,39.0,18/03/2025,Standard,3908.02,12,user10459@example.com,Yes
+10278,Daniel Brown,Denmark,AALBORG,68.0,2024-03-22,Premium,5308.66,24,user10278@example.com,Yes
+10255,Maya Lindberg,Denmark,Copenhagen,57.0,2024-01-16,Standard,19946.87,15,user10255@example.com,Yes
+10347,Emil Johansson,Germany,Hamburg,49.0,2024-11-01,Standard,20676.12,8,user10347@example.com,Yes
+10123,YASMIN AHMED,Denmark,Copenhagen,24.0,2024-10-04,Standard,10781.55,1,user10123@example.com,Yes
+10214,Emil Johansson,Norway,Bergen,70.0,2024-02-15,Standard,19833.11,31,user10214@example.com,Yes
+10511,Alexander Rasmussen,Denmark,Copenhagen,47.0,2024-06-05,Basic,,32,user10511@example.com,Yes
+10077,Leila Osman,Denmark, Odense ,69.0,2024-05-24,Basic,8428.03,18,user10077@example.com,Yes
+10285,Noah Khan,Denmark,Odense,37.0,2024-03-19,Basic,6495.6,5,user10285@example.com,Yes
+10175,Omar Mohamed,Denmark,Odense,47.0,2025-07-03,Standard,8585.41,10,user10175@example.com,Yes
+10277,Sara Mohamed,Denmark,AALBORG,53.0,2024-04-29,Standard,6610.19,26,user10277@example.com,Yes
+10005,Lina Osman,Denmark,Aalborg,58.0,2024-07-31,Basic,13186.22,11,user10005@example.com,Yes
+10270,Omar Mohamed,Denmark,Aarhus,29.0,2026-04-09,Standard,16973.26,33,user10270@example.com,Yes
+10222,Sofia Rossi,Denmark,Odense,62.0,2025-11-02,Standard,9253.13,19,user10222@example.com,Yes
+10376,Omar Mohamed,Denmark,Aalborg,43.0,2025-10-30,Basic,,11,user10376@example.com,No
+10593,Victor Lindström,Denmark,Aalborg,54.0,18/05/2025,Standard,,9,user10593@example.com,No
+10389,Adam Hassan,Denmark,Aarhus,66.0,2024-03-15,Standard,"15,624.72 DKK",13,user10389@example.com,Yes
+10256,Freja Møller,Sweden,Gothenburg,22.0,2026-03-10,Standard ,6028.11,33,user10256@example.com,Yes
+10498,Lucas Kristensen,Sweden,Stockholm,34.0,2026-06-05,Standard,4024.49,25,user10498@example.com,Yes
+10254,Lina Osman,Denmark,Copenhagen,22.0,2024-06-30,Premium,13332.82,25,user10254@example.com,Yes
+10310,William Pedersen,Denmark,Aalborg,36.0,2025-02-24,Standard,6959.67,20,user10310@example.com,Yes
+10117,Noah Khan,Norway,Bergen,41.0,2025-07-12,Standard,9413.42,21,user10117@example.com,Yes
+10149,Lucas Garcia,Denmark,Aalborg,40.0,2024-01-08,Premium,11553.76,29,user10149@example.com,Yes
+10348,Maya Patel,Denmark,Copenhagen,44.0,2025-05-13,Premium,"15,671.66 DKK",21,user10348@example.com,No
+10057,Emil Johansson,Denmark,Copenhagen,21.0,2024-09-05,Standard,6441.08,12,user10057@example.com,no
+10269,Amira Khalil,DK,Copenhagen,64.0,2025-09-02,Basic,3516.25,11, user10269@example.com ,Yes
+10006,Maya Patel,Germany,Hamburg,58.0,2024-06-18,Basic,9697.23,20,,Yes
+10477,Emil Johansson,Denmark,Århus,23.0,2024-04-08,Premium,14718.89,22,user10477@example.com,Yes
+10036,omar mohamed,Denmark,Aalborg,19.0,2025-02-25,Basic,15346.67,3,user10036@example.com,Yes
+10156,Clara Andersen,Sweden,Malmö,65.0,2024-11-12,Standard,20008.37,25,user10156@example.com,Yes
+10526,Amira Khalil,Denmark,Copenhagen,66.0,2024-06-18,Premium,9939.58,28,user10526@example.com,Yes
+10589,Clara Andersen,Denmark,Odense,21.0,2026-05-13,Premium,8845.88,12,user10589@example.com,Yes
+10649,Emma Jensen,Sweden,Gothenburg,25.0,2024-09-30,Basic,11580.57,11,user10649@example.com,Yes
+10301,Anna Schmidt,Norway,Bergen,45.0,2025-01-30,Standard,36609.74,34,user10301@example.com,Yes
+10639,Leila Osman,Norway,Bergen,65.0,2024-05-05,Standard,12584.82,5,user10639@example.com,Yes
+10265,Adam Ali,Germany,Hamburg,22.0,2024-08-24,Basic,6368.62,11,user10265@example.com,No
+10329,Daniel Martin,Sweden,Stockholm,28.0,2026-03-04,Basic,9199.09,1,user10329@example.com,Yes
+10249,Elias Holm,Denmark,Odense,33.0,2024-04-20,Standard,9761.11,12,user10249@example.com,Yes
+10627,Sofia Petersen,Norway,Oslo,49.0,2025-09-17,Standard,"8,599.93 DKK",17,user10627@example.com,Yes
+10517,Alexander Rasmussen,Denmark,Copenhagen,51.0,2025-09-02,Basic,14613.07,27,user10517@example.com,Yes
+10004,Victor Lindström,Sweden,Stockholm,48.0,2024-11-30,Basic,25358.11,8,user10004@example.com,Yes
+10068,Maya Lindberg,Denmark,Odense,70.0,2024-12-25,Premium,12353.58,34,user10068@example.com,Yes
+10320,Omar Mohamed,Germany,Berlin,38.0,2024-08-09,Basic,12441.96,25,user10320@example.com,Yes
+10262,Laura Thomsen,Norway,Bergen,68.0,04/06/2025,Standard,11208.27,16,user10262@example.com,Yes
+10555,Sofie Larsen,Denmark,Aarhus,21.0,2024-01-21,Standard,22029.11,24,user10555@example.com,Yes
+10574,Adam Hassan,Norway,Oslo,36.0,09/06/2024,Standard,10699.79,7,user10574@example.com,Yes
+10514,Elias Holm,Denmark,Odense,68.0,2025-07-27,Standard,,31,user10514@example.com,Yes
+10508,elias holm,Norway,Bergen,37.0,2025-05-07,Premium,6703.69,21,user10508@example.com,Yes
+10577,Alexander Rasmussen,Germany,Hamburg,51.0,2024-10-30,Basic,11770.33,9,user10577@example.com,Yes
+10120,elias holm,Sweden,Stockholm,26.0,2024-04-16,Standard,5744.59,20,user10120@example.com,Yes
+10140,Leila Osman,Denmark,Aarhus,36.0,2025-09-02,Standard,15483.43,3,user10140@example.com,Yes
+10274,Isabella Romano,Sweden,Stockholm,29.0,2024-06-01,Premium,6137.32,28,user10274@example.com,Yes
+10496,Ida Sørensen,Denmark,Aalborg,58.0,2026-06-06,Standard,6080.08,33,user10496@example.com,Yes
+10544,Leo Wagner,Germany,Berlin,48.0,2025-08-13,Basic,8907.74,10, user10544@example.com ,Yes
+10337,Freja Møller,Denmark,Aalborg,59.0,2025-02-11,Basic,5692.65,26,user10337@example.com,Yes
+10619,Maya Lindberg,Denmark,København,71.0,18/07/2024,Standard,16085.99,16,user10619@example.com,Yes
+10573,Lina Osman,Denmark,Aarhus,41.0,2025-05-08,Standard,13902.34,26,user10573@example.com,Yes
+10566,Emily Wilson,Sweden,Gothenburg,,2024-03-05,basic,12048.36,26,user10566@example.com,No
+10355,Freja Møller,Denmark,Aalborg,32.0,2026-04-12,Standard,4596.69,15,user10355@example.com,No
+10189,Sofie Larsen,Sweden,Stockholm,18.0,2026-04-21,Basic,23544.82,28,user10189@example.com,Yes
+10363,Lucas Kristensen, Denmark ,Odense,70.0,2025-07-02,Standard,21560.93,11,user10363@example.com,No
+10264,Amira Khalil,Denmark,Aarhus,51.0,2024-05-06,Standard,12781.6,0,user10264@example.com,Yes
+10243,Oliver Hansen,Denmark,Copenhagen,59.0,2024-11-30,Standard,10337.8,26,user10243@example.com,Yes
+10495,  Elias Holm ,Norway,Bergen,67.0,2024-08-05,Standard,8681.77,31,user10495@example.com,Yes
+10074,Emily Wilson,Denmark,odense,28.0,29/07/2025,BASIC,9034.02,14,user10074@example.com,Yes
+10012,Emil Johansson,Germany,Berlin,68.0,2025-03-07,Standard,22186.53,5,user10012@example.com,Yes
+10203,Alexander Rasmussen,Danmark,Aalborg,71.0,2025-02-11,Basic,11533.42,25,user10203@example.com,No
+10343,Oscar Berg,Norway,Oslo,59.0,2026-06-05,Standard,7408.56,6,user10343@example.com,Yes
+10260,Nora Eriksson,Sweden,Malmö,42.0,2024-11-10,Premium,8664.9,19,user10260@example.com,Yes
+10254,Lina Osman,Denmark,Copenhagen,22.0,2024-06-30,Premium,13332.82,25,user10254@example.com,Yes
+10564,Sofia Petersen,Sweden,Gothenburg,,"Feb 02, 2025",Premium,10289.78,26,,Yes
+10289,Nora Eriksson,Denmark,Copenhagen,26.0,2025-04-20,Standard,9466.82,26,user10289@example.com,Yes
+10442,Lucas Garcia,Denmark,Aarhus,33.0,2025-07-17,Basic,10896.41,14,user10442@example.com,Yes
+10283,Amina Hassan,Denmark,Aalborg,48.0,2024-02-25,Premium,10507.97,8,user10283@example.com,Yes
+10309,Alexander Rasmussen,Denmark,Aarhus,24.0,2024-05-31,Premium,8917.81,15,user10309@example.com,Yes
+10190,Amina Hassan,Denmark,Copenhagen,63.0,2026-01-16, Premium,"15,974.91 DKK",16,user10190@example.com,Yes
+10116,Daniel Brown,Norway,Bergen,43.0,not available,Basic,13679.55,3,user10116@example.com,No
+10486,Alexander Rasmussen,Denmark,Odense,37.0,2024-07-02,Basic,11157.28,9,user10486@example.com,Yes
+10229,Emma Jensen,Sweden,Stockholm,51.0,2025-01-03, Premium,6681.13,28,user10229@example.com,Yes
+10450,Sofia Rossi,Sweden,Gothenburg,,2025-11-14,Standard,8545.24,24,user10450@example.com,Yes
+10268,Lina Osman,Denmark,Aalborg,26.0,23/03/2026,Basic,6322.5,10,,Yes
+10241,Elias Holm,Norway,Oslo,41.0,2024-04-07,Premium,"20,602.38 DKK",23,user10241@example.com,Yes
+10025,Nora Eriksson,Norway,Bergen,67.0,"Aug 06, 2024",Premium,13990.09,3,user10025@example.com,Y
+10543,Isabella Romano,Norway,Bergen,42.0,2024-08-17,Premium,6946.75,31,user10543@example.com,Yes
+10059,Sofie Larsen,Denmark,Aalborg,54.0,2024-01-22,Premium,"5,967.05 DKK",22,user10059@example.com,Yes
+10632,Elias Holm,Norway,Oslo,29.0,"Jul 20, 2024",Basic,13963.05,19,user10632@example.com,Yes
+10204,Anna Schmidt,Denmark,Odense,21.0,2024-11-09,Basic,12702.43,28,user10204@example.com,no
+10014,Nora Eriksson,Norway,Bergen,50.0,14/02/2026,Premium,12808.07,31,user10014@example.com,No
+10489,Maya Lindberg,Denmark,Aalborg,30.0,2025-08-24,Standard,13255.52,34,@example.com,Yes
+10395,Freja Møller,Denmark,ODENSE,59.0,2026-05-13,Standard,10614.4,24,user10395@example.com,Yes
+10403,Elias Hussein,Norway,Bergen,68.0,2025-01-03,Standard,15056.97,15,user10403@example.com,No
+10197,Adam Ali,Sweden,Malmö,65.0,2024-10-15,Premium,17035.97,34,user10197@example.com,Yes
+10464,Lina Osman,Denmark,,24.0,2024-07-20,Standard,10822.32,20,user10464@example.com,Yes
+10352,Emma Jensen,Danmark,Aarhus,45.0,2025-07-03,Basic,6339.91,24,user10352@example.com,N
+10361,Lina Osman,Germany,Hamburg,67.0,2025-05-18,Standard ,"8,561.69 DKK",17,user10361@example.com,Yes
+10354,Yasmin Ahmed,DENMARK,Aalborg,41.0,2025-07-15,Standard,12181.33,31,user10354@example.com,No
+10438,Oliver Hansen,Denmark,Aalborg,26.0,2026-04-26,Premium,4009.19,18,user10438@example.com,Yes
+10072,Emil Johansson,Denmark,Odense,64.0,25/05/2024,Premium,6993.26,4,user10072@example.com,Yes
+10313,Maya Patel,Denmark,,43.0,2025-01-13,Standard,12202.28,32,user10313@example.com,No
+10455,Noah Khan,Denmark,Copenhagen,,2026-04-30,Basic,"10,613.52 DKK",34,user10455@example.com,Yes
+10334,Victor Lindström,Norway,Bergen,41.0,2024-10-03,Standard,"12,082.41 DKK",7,user10334@example.com,Yes
+10417,Noah Khan,Denmark,Copenhagen,46.0,2025-06-14,Standard,8958.45,27,user10417@example.com,Yes
+10400,Leila Osman,Denmark,Odense,53.0,2025-10-25,Premium,13111.63,31,user10400@example.com,Yes
+10328,Yasmin Ahmed,Denmark,Aarhus,35.0,2026-02-09,Premium,17052.27,19,user10328@example.com,Yes
+10553,Maya Lindberg,Denmark,Aalborg,28.0,2025-12-25,Basic,19227.89,31,user10553@example.com,Yes
+10030,Emil Johansson,Sweden,Gothenburg,20.0,2025-10-18,Premium,16900.35,23, user10030@example.com ,No
+10093,Omar Mohamed,Denmark,Odense,67.0,2024-03-30,Standard,8404.57,3,user10093@example.com,Yes
+10358,Nora Eriksson,Norway,Oslo,44.0,2025-09-16,Standard,16366.68,23,user10358@example.com,Yes
+10481,Mads Nielsen,Denmark,Aarhus,41.0,2025-10-11,Standard ,"20,091.25 DKK",11,user10481@example.com,Yes
+10192,Elias Holm,Danmark,Aalborg,26.0,2024-01-23,Standard,7184.5,3,@example.com,Yes
+10091,Anna Schmidt,Denmark,Copenhagen,,02/05/2025,Standard,18851.97,7,user10091@example.com,Yes
+10067,Anna Schmidt, Denmark ,Copenhagen,30.0,22/07/2025,Standard,13094.01,7,user10067@example.com,no
+10220,Maya Lindberg,Denmark,Aalborg,56.0,2026-02-18,Standard,7330.67,22,user10220@example.com,Yes
+10172,Elias Hussein,Denmark,Aalborg,20.0,2025-12-10,Premium,17678.34,6, user10172@example.com ,Yes
+10217,Elias Holm,Denmark,Copenhagen,54.0,"Apr 29, 2025",Basic,10102.71,7,user10217@example.com,Yes
+10024,Victor Lindström,Germany,Hamburg,67.0,2024-12-29,Standard,"19,835.23 DKK",17,user10024@example.com,Yes
+10602,Sara Mohamed,Norway,Oslo,67.0,11/02/2024,Standard,8055.31,6,user10602@example.com,Yes
+10591,Lucas Kristensen,Germany,Hamburg,18.0,32/13/2025,Standard,10704.95,7,user10591@example.com,Yes
+10234,Lucas Kristensen,Sweden,Stockholm,47.0,2024-07-26,Premium,7981.12,28,user10234@example.com,Yes
+10385,Sofia Petersen, Denmark ,Odense,56.0,2026-05-14,PREMIUM,14522.8,11,@example.com,Yes
+10150,Sofie Larsen,Denmark,Aarhus,70.0,2025-10-11,Standard,"10,676.26 DKK",16,user10150@example.com,Yes
+10424,Lucas Garcia,Denmark,Copenhagen,28.0,2024-01-01,Standard,,18,user10424@example.com,NO
+10163,Mads Nielsen,Denmark,Aalborg,37.0,2024-07-18,Premium,4893.04,11,user10163@example.com,Yes
+10413,Victor Lindström,Denmark,Aalborg,20.0,2026-05-21,Standard,11466.02,18,user10413@example.com,Yes
+10513,Maya Patel,Denmark, Copenhagen ,21.0,2025-06-02,basic,13708.72,24,USER10513@EXAMPLE.COM,Yes
+10153,Clara Andersen,Denmark,Aarhus,49.0,2024-05-21,Basic,5620.28,5,user10153@example.com,Yes
+10303,Leo Wagner,Denmark,Aarhus,64.0,2026-04-24,Standard,"12,395.10 DKK",4,user10303@example.com,Yes
+10127,  Maya Patel ,Denmark,copenhagen,25.0,2025-03-30,Basic,7739.83,15,user10127@example.com,Yes
+10027,Elias Hussein,Denmark,Aalborg,70.0,2024-03-05,Standard,14583.57,16,user10027@example.com,Yes
+10539,Ida Sørensen,Denmark,Odense,43.0,2026-05-28,Premium,,34,user10539@example.com,Yes
+10528,Omar Mohamed,Germany,Hamburg,67.0,2026-02-04,Premium,11395.17,4,user10528@example.com,Yes
+10095,Ida Sørensen,Denmark,COPENHAGEN,68.0,2025-04-28,Basic,4870.02,22,user10095@example.com,Yes
+10556,Nora Eriksson,Denmark,Aarhus,63.0,02/02/2026,Premium,7172.02,7,user10556@example.com,Yes
+10267,Leila Osman,Denmark,Copenhagen,35.0,2024-06-01,Premium,14978.01,7,,Yes
+10144,Oscar Berg,Denmark,Aarhus,69.0,2024-06-18,Premium,24427.82,9,user10144@example.com,Yes
+10425,Sara Mohamed,Sweden,Gothenburg,38.0,2025-08-04,Standard,10141.59,12,missing-at-sign.com,Yes
+10584,Leo Wagner,Denmark,Aarhus,21.0,2025-08-16,Premium,4993.88,20,user10584@example.com,Yes
+10108,Nora Eriksson,Denmark,Odense,34.0,2026-02-28,Standard,5091.27,2,user10108@example.com,Yes
+10122,Omar Mohamed,Sweden,,54.0,2024-08-02,Standard,17108.16,8,user10122@example.com,Yes
+10193,Mads Nielsen,Denmark,Aalborg,56.0,2025-02-13,Basic,15877.22,12,user10193@example.com,Yes
+10580,Sofie Larsen,Denmark,Odense,27.0,2024-05-15,Standard,9814.48,16,user10580@example.com,Yes
+10087,Adam Ali,Sweden,Stockholm,31.0,2025-04-15,Basic,5286.46,15,user10087@example.com,No
+10086,Alexander Rasmussen,Denmark,Aalborg,44.0,2024-07-23,Basic,14539.82,4,user10086@example.com,Yes
+10058,William Pedersen,Denmark,Aarhus,32.0,2024-05-01,Premium,7434.73,33,user10058@example.com,Yes
+10462,Emily Wilson,Denmark,,34.0,2026-06-17,Basic,11586.58,17,user10462@example.com,Yes
+10107,Emil Johansson,Denmark,Odense,56.0,21/02/2024,Basic,10889.4,31,user10107@example.com,No
+10244,Adam Ali,Denmark,AARHUS,44.0,31/10/2025,Premium,4570.39,17,user10244@example.com,No
+10415,Noah Khan,Denmark,Aalborg,44.0,2025-04-06,Standard,10428.39,22,user10415@example.com,Yes
+10246,Yasmin Ahmed,Norway,Bergen,42.0,"Apr 23, 2025",Basic,13648.09,9,user10246@example.com,Yes
+10474,Daniel Martin,Denmark,Aalborg,60.0,"Jun 13, 2026",Premium,7817.18,8,user10474@example.com,Yes
+10457,Emil Johansson,Germany,Hamburg,61.0,2024-05-20,Standard,8169.27,17,user10457@example.com,Yes
+10490,Elena Müller,Denmark,aarhus,43.0,2026-01-19,Basic,7264.38,14,user10490@example.com,Yes
+10055,IDA SØRENSEN,Sweden,Gothenburg,63.0,2024-04-16,Premium,29180.3,4,user10055@example.com,No
+10504,Laura Thomsen,Denmark,Copenhagen,41.0,2024-08-30,Basic,11245.49,27,user10504@example.com,Yes
+10519,  William Pedersen ,DK,Aarhus,19.0,2025-12-27,Standard,14669.86,30,,Yes
+10223,Lucas Kristensen,Sweden,Gothenburg,24.0,2025-10-23,Standard,4686.71,28,user10223@example.com,No
+10318,Amina Hassan,Sweden,Gothenburg,69.0,2024-05-18,Standard,3422.78,10,user10318@example.com,Yes
+10034,Isabella Romano,Denmark,Aalborg,48.0,2024-03-29,Standard,,4,user10034@example.com,Yes
+10170,Clara Andersen,Germany,Berlin,5.0,2024-09-12,Standard,12542.08,6,user10170@example.com,Yes
+10616,Amina Hassan,Sweden,Stockholm,32.0,2025-11-29,Standard,11978.71,34,user10616@example.com,Yes
+10535,Emily Wilson,Denmark,Copenhagen,56.0,2026-06-05,standard ,"20,237.21 DKK",9,@example.com,No
+10380,Amina Hassan,Sweden,Malmö,43.0,2026-01-16,Standard,9943.47,27,user10380@example.com,Yes
+10307,William Pedersen,Denmark,Aalborg,51.0,2025-09-26,Basic,9564.7,15,user10307@example.com,NO
+10392,Victor Lindström,Denmark,Copenhagen,52.0,2026-04-15,Premium,8677.53,11,user10392@example.com,Yes
+10080,Sara Mohamed,Norway,Oslo,38.0,2026-04-05,Standard,6303.86,24,user10080@example.com,Yes
+10099,Mads Nielsen,Denmark,Aalborg,24.0,19/04/2024,Premium,9056.79,34,user10099@example.com,Yes
+10115,Yasmin Ahmed,Denmark,Odense,,2024-05-25,Standard,14972.47,13,user10115@example.com,Yes
+10136,Sofie Larsen,denmark,Odense,25.0,2024-08-10,Standard,8434.08,34,user10136@example.com,Yes
+10554,Freja Møller,Germany,Hamburg,60.0,2024-01-20,Basic,4608.64,4,user10554@example.com,Yes
+10405,Amira Khalil,Germany,Hamburg,56.0,2025-08-24,Standard,"11,248.58 DKK",21,user10405@example.com,Yes
+10196,Oscar Berg,Denmark,Copenhagen,67.0,2025-10-02,Basic,15671.05,8,user10196@example.com,No
+10261,Mathias Poulsen,Denmark,Odense,28.0,"May 24, 2026",Basic,11372.38,17,user10261@example.com,Yes
+10599,Lucas Garcia,Germany,Hamburg,70.0,2025-10-28,Standard,11648.78,26,user10599@example.com,Yes
+10105,Lucas Kristensen,Norway,Bergen,21.0,2026-05-27,Standard,14834.1,999,user10105@example.com,Yes
+10238,Sofie Larsen,Norway,Oslo,66.0,2026-05-12,Standard,10916.13,26,user10238@example.com,Yes
+10033,Emily Wilson,Denmark,aarhus,67.0,22/05/2026,Basic,6167.32,28,user10033@example.com,N
+10083,Emil Johansson,Norway,Oslo,39.0,2024-08-11,Standard,9350.57,32,user10083@example.com,Yes
+10049,Lucas Garcia,Sweden,Malmö,68.0,2025-04-29,Basic,9161.73,26,user10049@example.com,Yes
+10418,Daniel Martin,Norway,Oslo,29.0,"Jun 11, 2024",Standard,4208.57,22,user10418@example.com,Yes
+10381,Adam Hassan,Denmark,Aarhus,56.0,"Feb 21, 2025",Standard,,21,user10381@example.com,Yes
+10548,Sara Mohamed,Denmark,Aalborg,63.0,2024-02-28,Premium,6058.85,4,user10548@example.com,Yes
+10298,Lucas Garcia,Norway,Oslo,51.0,2026-03-04,Standard,5339.26,23,user10298@example.com,Yes
+10411,Emil Johansson,Sweden,Stockholm,37.0,2025-05-16,Basic,5712.92,20,user10411@example.com,Yes
+10488,Oliver Hansen,Denmark,Odense,27.0,2025-04-20,Standard,13480.37,1,user10488@example.com,Yes
+10148,Leila Osman,Denmark,Aalborg,61.0,2026-05-14,premium,,4,USER10148@EXAMPLE.COM,Yes
+10013,Daniel Brown,Sweden,Malmö,27.0,28/10/2025,Standard,6000.72,4,,No
+10612,Victor Lindström,Sweden,Stockholm,32.0,2025-08-02,Standard,7827.08,19,user10612@example.com,Yes
+10638,Adam Ali,Sweden,Malmö,71.0,2024-06-08,Premium,11143.52,29,user10638@example.com,No
+10184,Sofie Larsen,Denmark,Copenhagen,63.0,2024-10-30,Basic,10374.47,20,user10184@example.com,No
+10567,Sofie Larsen,Norway,Bergen,,2025-02-10,Premium,3906.21,8,user10567@example.com,Yes
+10618,Elias Holm,Denmark,ODENSE,41.0,2025-12-30,Premium,16065.41,2,user10618@example.com,Yes
+10557,Sofia Petersen,Denmark,Copenhagen,59.0,2024-04-02,Basic,4208.28,3,user10557@example.com,Yes
+10478,Freja Møller,Sweden,Stockholm,62.0,2025-04-19,Standard,10754.09,10,missing-at-sign.com,Yes
+10583,Lucas Kristensen,Denmark,Aalborg,58.0,2025-12-28,Standard,9403.88,20,user10583@example.com,Yes
+10339,Lucas Kristensen,Denmark,Aalborg,66.0,2025-08-08,Premium,18202.98,20,user10339@example.com,Yes
+10016,Mathias Poulsen,Denmark,Odense,54.0,2025-08-01,Premium,14094.15,19,user10016@example.com,Yes
+10304,Anna Schmidt,Denmark,,51.0,2025-10-03,Standard,,1,user10304@example.com,Yes
+10441,Oscar Berg,Norway,Oslo,39.0,2024-12-27,Standard,5405.74,2,user10441@example.com,No
+10037,Noah Khan,Denmark,Aalborg,36.0,2024-04-27,Standard,8304.03,32,user10037@example.com,No
+10293,DANIEL MARTIN,Germany,Hamburg,37.0,2024-03-17,standard ,13549.52,30,user10293@example.com,Yes
+10162,Anna Schmidt,Germany,Berlin,,2026-06-06,Standard,36958.35,9,user10162@example.com,Yes
+10604,Alexander Rasmussen,Sweden,Malmö,25.0,2024-11-12,Basic,7928.84,8,user10604@example.com,Yes
+10294,Emma Jensen,Denmark,Aarhus,67.0,2025-11-27,Standard,12643.35,7,user10294@example.com,Yes
+10232,Emma Jensen,Denmark,Aarhus,60.0,09/08/2024,Basic,14412.8,13,user10232@example.com,No
+10143,Adam Hassan,Germany,Berlin,45.0,18/12/2025,Standard,9655.82,1,user10143@example.com,Yes
+10181,Freja Møller,Germany,Berlin,34.0,2024-08-12,Premium,4421.26,19,user10181@example.com,Yes
+10325,Adam Ali,Norway,Oslo,40.0,2026-05-07,Basic,4558.56,30,user10325@example.com,Yes
+10275,William Pedersen,Sweden,Stockholm,38.0,2024-09-18,Basic,16390.69,17,user10275@example.com,Yes
+10114,Daniel Brown,Denmark,Odense,46.0,2026-01-08,Premium,22822.21,23,user10114@example.com,Yes
+10015,Amira Khalil,Denmark,Aalborg,23.0,2025-04-18,premium,12994.4,23,user10015@example.com,Yes
+10210,Elias Hussein,Denmark,Copenhagen,28.0,2024-12-22,Premium,11287.23,23,user10210@example.com,Yes
+10085,Daniel Martin,Denmark,Aalborg,45.0,2024-03-06,Premium,9670.82,12,user10085@example.com,Yes
+10132,Lucas Kristensen,Germany,Hamburg,46.0,2025-12-09,Premium,5850.67,34, user10132@example.com ,Yes
+10437,Amina Hassan,Denmark,Aalborg,61.0,2024-04-05,Basic,13146.0,1,user10437@example.com,No
+10136,Sofie Larsen,denmark,Odense,25.0,2024-08-10,Standard,8434.08,34,user10136@example.com,Yes
+10182,Emma Jensen,Germany,Berlin,68.0,2025-11-24,Basic,7647.82,2,user10182@example.com,Yes
+10550,Freja Møller,Danmark,Aalborg,23.0,"Feb 19, 2024",PREMIUM,18064.61,31,user10550@example.com,Yes
+10650,Anna Schmidt,Danmark,Copenhagen,39.0,2026-04-12,Basic,5903.97,1,user10650@example.com,Yes
+10326,Omar Mohamed,Sweden,Stockholm,27.0,2025-09-09,Premium,6460.65,32,user10326@example.com,Yes
+10276,Anna Schmidt,Denmark,Odense,45.0,"Jul 09, 2024",Standard,7097.77,33,user10276@example.com,No
+10523,Anna Schmidt,Denmark,København,43.0,2025-04-19,Standard,11296.86,17,user10523@example.com,Yes
+10643,Nora Eriksson,Denmark,Odense,66.0,2025-01-27,Standard,9933.59,18,user10643@example.com,Yes
+10336,Sara Mohamed,Sweden,Gothenburg,30.0,2024-07-13,Premium,9940.36,4,user10336@example.com,No
+10151,Mathias Poulsen,Norway,Bergen,31.0,2026-01-02,Basic,17335.89,25,user10151@example.com,Yes
+10427,Adam Hassan,Denmark,Aalborg,24.0,2024-11-25,Basic,5518.86,5,user10427@example.com,Yes
+10605,Emil Johansson,Germany,Berlin,34.0,2025-03-09,Standard,6716.82,20,user10605@example.com,Yes
+10365,Sara Mohamed,Sweden,Malmö,57.0,2025-11-07,Standard,"10,059.36 DKK",23,user10365@example.com,Yes
+10026,Lucas Kristensen,Denmark,Aarhus,49.0,2026-04-11,Premium,26734.44,9,user10026@example.com,No
+10051,Clara Andersen,Denmark,Ålborg,65.0,2025-07-26,Basic,9802.52,30,user10051@example.com,Yes
+10568,Elena Müller,Denmark,ODENSE,32.0,2025-12-23,Standard,5424.18,7,user10568@example.com,Yes
+10641,Freja Møller,Sweden,Malmö,29.0,2025-05-25,Basic,9005.84,16,user10641@example.com,Yes
+10172,Elias Hussein,Denmark,Aalborg,20.0,2025-12-10,Premium,17678.34,6, user10172@example.com ,Yes
+10476,William Pedersen,Denmark,Odense,58.0,2026-06-10,Standard,"15,704.24 DKK",18,user10476@example.com,Yes
+10609,Mads Nielsen,Sweden,Malmö,40.0,19/10/2024,Standard,18927.79,31,user10609@example.com,Yes
+10065,Adam Ali,Sweden,Stockholm,29.0,2024-12-28,Standard,7136.9,2,user10065@example.com,Yes
+10129,Laura Thomsen,Denmark,Copenhagen,49.0,10/02/2026,Standard,8946.91,5,user10129@example.com,Yes
+10183,Mathias Poulsen,Denmark,Odense,,2024-07-05,Basic,10489.04,15,user10183@example.com,Yes
+10399,Sofia Petersen,Denmark,Aarhus,41.0,2026-06-17,Premium,8830.76,21,user10399@example.com,No
+10201,Sara Mohamed,Norway,Oslo,60.0,2025-03-02,Standard,18653.53,15,user10201@example.com,Yes
+10202,Laura Thomsen,Germany,Hamburg,42.0,2024-02-19,Premium,"8,772.54 DKK",31,,Yes
+10541,Oscar Berg,Germany,Hamburg,44.0,2024-04-10,Basic,10995.26,21,user10541@example.com,Yes
+10300,Sofia Rossi,Sweden,Stockholm,28.0,2025-07-28,Standard,24886.47,15,user10300@example.com,Yes
+10521,Anna Schmidt,Norway,Bergen,51.0,2025-01-16,standard ,10027.23,12,user10521@example.com,Yes
+10052,Daniel Martin,Denmark,Aarhus,65.0,2024-08-27,Standard,5943.56,30,user10052@example.com,Yes
+10237,Freja Møller,Denmark,Copenhagen,70.0,2024-11-02,Basic,8486.79,18,user10237@example.com,No
+10028,Oliver Hansen,Denmark,Copenhagen,18.0,2024-08-09,Basic,6457.23,12,user10028@example.com,Yes
+10550,Freja Møller,Danmark,Aalborg,23.0,"Feb 19, 2024",PREMIUM,18064.61,31,user10550@example.com,Yes
+10578,Victor Lindström,Sweden,Gothenburg,34.0,2025-05-09, Premium,12733.43,13,user10578@example.com,Yes
+10595,William Pedersen,Denmark,Aalborg,57.0,2026-04-08,Standard,14471.49,16,,Yes
+10421,Oliver Hansen,Sweden,Malmö,36.0,2024-05-09,Standard,5913.16,5,user10421@example.com,No
+10512,Maya Patel,Norway,Oslo,59.0,2025-03-30,Standard,9173.7,23,user10512@example.com,No
+10332,Victor Lindström,Denmark,Copenhagen,54.0,2025-11-19,Premium,17400.07,3,user10332@example.com,Yes
+10252,NORA ERIKSSON,Norway,Oslo,39.0,2025-07-30,Basic,7847.13,13,user10252@example.com,Yes
+10284,EMILY WILSON,Denmark,Aarhus,20.0,2026-06-09,Basic,10989.65,5,user10284@example.com,Yes
+10125,Laura Thomsen,Denmark,Odense,60.0,28/08/2025,Standard,8040.37,8,user10125@example.com,Yes
+10435,Nora Eriksson,Denmark,Aarhus,23.0,2026-05-27,standard ,14560.99,22,user10435@example.com,Yes
+10062,Clara Andersen,Denmark,Copenhagen,59.0,2024-12-27,Standard,4353.38,25,user10062@example.com,Yes
+10161,Daniel Brown,Denmark,Copenhagen,25.0,2024-03-04,Standard,14047.4,15,user10161@example.com,No
+10646,  Sofie Larsen ,Norway,Oslo,61.0,2026-04-16,Basic,9928.62,9,user10646@example.com,Yes
+10271,Oliver Hansen,Denmark,Aalborg,33.0,13/01/2026,Standard,5395.37,5,user10271@example.com,Yes
+10500,Amina Hassan,Denmark,Aarhus,,2026-03-26,Standard,18989.55,34,user10500@example.com,Yes
+10308,Yasmin Ahmed,Sweden,Stockholm,69.0,2024-11-07,Basic,6640.89,23,user10308@example.com,YES
+10562,Mathias Poulsen,Denmark,Aalborg,66.0,2025-02-04,Standard,12247.42,21,user10562@example.com,Yes
+10111,Clara Andersen, Denmark ,Aalborg,21.0,2026-06-05,Basic,3808.49,24,user10111@example.com,Yes
+10187,FREJA MØLLER,Denmark,,33.0,21/09/2024,Standard,2341.02,23,user10187@example.com,Yes
+10316,Freja Møller,Denmark,aarhus,,2024-08-22,Premium,14418.98,13,user10316@example.com,Yes
+10598,Nora Eriksson,Sweden,Stockholm,61.0,2024-11-19,Premium,14044.15,1,user10598@example.com,Yes
+10137,Oscar Berg,Germany,Berlin,49.0,2025-11-27,Standard,7662.38,19,user10137@example.com,No
+10021,Sofie Larsen,Norway,Bergen,63.0,2024-05-28,Standard,16380.36,24,user10021@example.com,Yes
+10344,Yasmin Ahmed,Sweden,Gothenburg,28.0,2025-05-26,Standard,9933.91,8,user10344@example.com,Yes
+10570,Elena Müller, Denmark ,Aalborg,50.0,2026-03-14,Premium,13357.44,3,user10570@example.com,Yes
+10615,Emil Johansson,Denmark,Copenhagen,48.0,2025-07-22,Standard,8064.82,26,user10615@example.com,Yes
+10218,Mads Nielsen, Denmark ,Aalborg,64.0,2024-08-19,Standard,10918.7,13,user10218@example.com,Yes
+10160,Amina Hassan,Norway,Oslo,41.0,02/03/2025,Premium,6196.77,29,user10160@example.com,Yes
+10046,Omar Mohamed,Norway,Oslo,18.0,2025-12-17,Basic,5834.72,30,,Yes
+10436,Daniel Brown,DENMARK,Aalborg,69.0,2024-05-18,Standard ,8423.47,14,USER10436@EXAMPLE.COM,Yes
+10308,Yasmin Ahmed,Sweden,Stockholm,69.0,2024-11-07,Basic,6640.89,23,user10308@example.com,YES
+10453,Noah Khan,Sweden,Gothenburg,58.0,2024-08-12,Basic,8817.53,3,user10453@example.com,No
+10038,Mathias Poulsen,Denmark,Aarhus,58.0,2024-06-29,Standard,7039.58,7,user10038@example.com,Yes
+10407,Omar Mohamed,DK,Copenhagen,50.0,2025-04-08,Standard,12689.18,2,user10407@example.com,Yes
+10466,Adam Hassan,Sweden,Stockholm,47.0,not available,Premium,13133.49,1,user10466@example.com,No
+10559,Amina Hassan,Sweden,Stockholm,,2025-04-12,Standard,10546.1,29,user10559@example.com,Yes
+10098,Maya Patel,Denmark,ODENSE,40.0,2024-04-25,Standard,8254.99,5,user10098@example.com,No
+10579,Lucas Garcia,Norway,Oslo,29.0,2025-09-05,Basic,19340.45,3,user10579@example.com,Yes
+10507,Emma Jensen,Denmark,Aalborg,64.0,2025-07-27,premium,21504.47,12,user.example.com,No
+10101,NORA ERIKSSON,Germany,Hamburg,65.0,2024-05-23,Basic,14144.8,25,user10101@example.com,Yes
+10003,Elias Hussein,Norway,Oslo,60.0,2024-05-20,Basic,7870.16,3,user10003@example.com,Yes
+10552,Laura Thomsen,Denmark,Aarhus,30.0,2025-06-07,Standard,4784.71,6,user10552@example.com,Yes
+10079,Amina Hassan,Denmark,Odense,,2024-12-19,Standard,11067.44,5,user10079@example.com,Yes
+10367,Elena Müller,Norway,Oslo,30.0,2024-02-16,Premium,8614.94,33,,Yes
+10100,Mathias Poulsen,Germany,Berlin,24.0,03/12/2025,Standard,19685.15,18,user10100@example.com,No
+10324,Emma Jensen,Denmark,Copenhagen,47.0,2024-10-24,Basic,6856.68,19,user10324@example.com,No
+10259,omar mohamed,Denmark,Aarhus,57.0,2024-02-22,Premium,7926.89,7,user10259@example.com,Yes
+10113,Laura Thomsen,Denmark,Aarhus,68.0,2024-02-11,Standard,6976.97,33,user10113@example.com,Yes
+10050,Yasmin Ahmed,Denmark,Copenhagen,35.0,2025-12-23,Standard,7437.89,4,user10050@example.com,YES
+10637,Sofia Petersen,Sweden,Stockholm,37.0,"Mar 15, 2024",Standard,1643.91,34,user10637@example.com,No
+10402,Lucas Kristensen,Germany,Berlin,54.0,05/03/2024,Basic,,14,,Yes
+10581,Daniel Martin,Denmark,Ålborg,30.0,2026-03-18,Standard,4683.78,9,user10581@example.com,Yes
+10631,Oliver Hansen,Germany,Hamburg,63.0,17/02/2026,Premium,4208.76,16,user10631@example.com,Yes
+10221,Nora Eriksson,Denmark,Aarhus,47.0,2024-07-19,Standard,9793.04,8,user10221@example.com,No
+10447,Omar Mohamed,Germany,Berlin,57.0,04/10/2024,Standard,12446.87,3,user.example.com,Yes
+10188,Emma Jensen,Denmark,Aarhus,21.0,2025-08-15,Basic,24620.41,9, user10188@example.com ,Yes
+10458,Lina Osman,Denmark,Odense,25.0,2025-11-11,Standard,7642.53,19,user10458@example.com,Yes
+10429,Oscar Berg,Denmark,Aalborg,30.0,2025-04-29,Premium,13725.55,3,user10429@example.com,Yes
+10096,Yasmin Ahmed,Sweden,Gothenburg,37.0,2025-11-14,Premium,4748.74,33,user10096@example.com,Yes
+10206,Alexander Rasmussen,Denmark,Copenhagen,70.0,2026-02-17,Basic,14869.05,33,user10206@example.com,Yes
+10582,Laura Thomsen,Denmark,Aalborg,28.0,2024-07-01,Standard,6587.77,4,user10582@example.com,No
+10342,Clara Andersen,Germany,Hamburg,68.0,22/09/2024,Standard,3213.66,7,missing-at-sign.com,No
+10576,Sofie Larsen,Denmark,Copenhagen,48.0,2026-03-24,Premium,8045.81,24,user10576@example.com,Yes
+10338,Lina Osman,Sweden,Gothenburg,56.0,2025-09-12,Basic,,27,user10338@example.com,Yes
+10538,Anna Schmidt,Denmark,Aarhus,43.0,2024-01-20,Basic,10059.46,25,user10538@example.com,No
+10306,Victor Lindström,Denmark,Odense,64.0,2025-02-06,Standard,6123.51,14, user10306@example.com ,Yes
+10366,daniel martin,Denmark,Aarhus,50.0,2025-02-06,Standard,6473.8,4,user10366@example.com,Yes
+10118,Oscar Berg,Sweden,Gothenburg,55.0,2024-09-16,Basic,,15,user10118@example.com,Yes
+10494,Mathias Poulsen,Denmark,aarhus,31.0,2025-01-30,Standard,6839.77,16,user10494@example.com,Yes
+10281,Mathias Poulsen,Denmark,odense,20.0,2024-12-08,Standard,7713.47,16,user10281@example.com,Yes
+10247,Elias Hussein,Sweden,Malmö,64.0,2024-04-02,Premium,12302.95,23,user10247@example.com,Yes
+10126,Isabella Romano,Denmark,Copenhagen,51.0,"Mar 30, 2025",Standard,9695.66,3,user10126@example.com,Yes
+10076,Leila Osman,Denmark,Copenhagen,50.0,2025-12-05,Standard,5667.89,11,user10076@example.com,Yes
+10469,Clara Andersen,Denmark,Copenhagen,26.0,2025-09-05,Premium,4010.31,2,user10469@example.com,Yes
+10230,Amira Khalil,Denmark,Copenhagen,24.0,2025-12-02,Basic,28522.06,29,user10230@example.com,Yes
+10451,Adam Hassan,Denmark,Aarhus,63.0,2024-05-17,Standard,4821.84,27,user10451@example.com,Yes
+10213,Lucas Garcia,denmark,Copenhagen,28.0,2026-02-19,Standard,10419.29,23,user10213@example.com,Yes
+10145,William Pedersen,Denmark,Aarhus,28.0,2024-10-30,Basic,30283.17,9,user10145@example.com,Yes
+10545,Lucas Garcia,Denmark,Copenhagen,59.0,2026-03-13,Basic,7256.06,34,user10545@example.com,Yes
+10266,Maya Lindberg,Denmark,Copenhagen,19.0,2026-05-25,Premium,11421.31,29,user10266@example.com,Yes
+10369,Sara Mohamed, Denmark ,Aalborg,56.0,not available,Standard,"5,314.83 DKK",2,,Yes
+10202,Laura Thomsen,Germany,Hamburg,42.0,2024-02-19,Premium,"8,772.54 DKK",31,,Yes
+10287,Isabella Romano,Denmark,Aarhus,68.0,28/01/2024,Premium,15038.99,23,user10287@example.com,Yes
+10588,Emily Wilson,Denmark,Copenhagen,39.0,23/06/2025,Standard,13811.36,24, user10588@example.com ,Yes
+10063,Sofia Petersen,Denmark,Aarhus,26.0,2026-04-16,Premium,10916.87,4,user10063@example.com,Yes
+10092,Sara Mohamed,Sweden,Gothenburg,50.0,2024-10-02,Basic,11260.29,15,user10092@example.com,Yes
+10648,Amira Khalil,Denmark,Odense,22.0,2024-01-17,Standard,15561.59,30,user10648@example.com,Yes
+10467,Amina Hassan,Sweden,Stockholm,62.0,2024-11-10,Standard,19441.12,14,user10467@example.com,Yes
+10104,Anna Schmidt,Germany,Berlin,63.0,2025-10-17,Basic,7947.88,3,user10104@example.com,Yes
+10152,  Mads Nielsen ,Germany,Berlin,22.0,2026-04-06,Premium,14711.42,12,user10152@example.com,Yes
+10296,Freja Møller,Germany,Berlin,,2025-07-21,Premium,7078.42,14,user10296@example.com,Yes
+10056,Elias Holm,Norway,Oslo,48.0,2024-08-17,Basic,3082.76,15,user10056@example.com,Yes
+10073,Oscar Berg,Norway,Bergen,63.0,2025-12-08,Premium,11042.31,2,user10073@example.com,Yes
+10406,Nora Eriksson,Germany,Hamburg,38.0,2025-03-09,Basic,6092.97,6,user10406@example.com,Yes
+10326,Omar Mohamed,Sweden,Stockholm,27.0,2025-09-09,Premium,6460.65,32,user10326@example.com,Yes
+10110,Mathias Poulsen,Germany,Hamburg,65.0,2025-04-19,Premium,15687.4,5,user10110@example.com,Yes
+10075,Victor Lindström,Denmark,Aarhus,68.0,2025-01-25,Standard,3054.12,12,user10075@example.com,Yes
+10177,Elias Holm,Denmark,Copenhagen,46.0,2025-03-08,Standard,7105.68,34,user10177@example.com,Yes
+10169,Daniel Brown,Denmark,Odense,43.0,2024-03-28,Premium,7647.4,28,user10169@example.com,Yes
+10625,Sofia Petersen,Germany,Berlin,50.0,2025-07-12,BASIC,12412.03,19, user10625@example.com ,Yes
+10019,Oscar Berg,Norway,Bergen,53.0,2024-04-30,Standard,5917.75,9,user10019@example.com,Yes
+10444,Emma Jensen,Denmark,Aarhus,46.0,2024-10-20,Premium,10309.59,17,,Yes
+10317,Daniel Brown,Denmark,Odense,51.0,2025-01-14,Basic,10478.89,12,user10317@example.com,Yes
+10302,Lucas Garcia,Denmark,Odense,61.0,2025-04-14,Basic,11696.59,6,user10302@example.com,Yes
+10600,  Emil Johansson ,Sweden,Malmö,32.0,2024-07-20,Standard,14504.81,12,user10600@example.com,Yes
+10171,Victor Lindström,Denmark,Aalborg,53.0,2025-04-09,Standard,15843.14,14,user10171@example.com,Yes
+10088,Emil Johansson,Denmark,Aarhus,48.0,2024-02-15,Premium,10633.15,17,user10088@example.com,Yes
+10384,Daniel Brown,Denmark,Aalborg,62.0,2025-11-15,Premium,13288.93,27,user10384@example.com,Yes
+10483,Emma Jensen,Sweden,Malmö,143.0,2024-12-27,Standard,9075.07,6,user10483@example.com,Yes
+10378,Emily Wilson,Denmark,Aarhus,66.0,2024-08-01,Premium,"13,532.35 DKK",29,,Yes
+10350,Leo Wagner,Denmark,AALBORG,46.0,2025-07-13,Standard,14776.04,22,user10350@example.com,Yes
+10382,Emma Jensen,Germany,Berlin,21.0,2025-05-06,Standard,25763.48,18,user10382@example.com,Yes
+10327,Yasmin Ahmed,Norway,Oslo,51.0,2025-08-04,Standard,5148.57,11,user10327@example.com,No
+10224,Freja Møller,Germany,Berlin,70.0,2026-03-08,Premium,19936.29,5,user10224@example.com,Yes
+10349,Omar Mohamed,Sweden,Malmö,46.0,2024-09-13,Premium,13479.83,6,user10349@example.com,Yes
+10471,Emil Johansson,Denmark,Copenhagen,40.0,2025-07-28,Premium,4725.82,24,user10471@example.com,Yes
+10208,Elias Holm,Sweden,,34.0,2024-01-28,Standard,2561.45,23,user10208@example.com,Yes
+10119,Nora Eriksson,DENMARK,Copenhagen,49.0,2025-01-16,Standard,7975.32,2,user10119@example.com,Yes
+10608,Freja Møller,Denmark,Aalborg,61.0,2024-01-17,Standard,15887.58,21,user10608@example.com,No
+10145,William Pedersen,Denmark,Aarhus,28.0,2024-10-30,Basic,30283.17,9,user10145@example.com,Yes
+10039,Daniel Brown,Denmark,AARHUS,26.0,2024-06-05,Basic,16106.48,28,user10039@example.com,No
+10253,Sara Mohamed,Denmark,Aarhus,24.0,2024-10-06,Basic,8391.43,3,user10253@example.com,Yes
+10592,Alexander Rasmussen,Denmark,Aalborg,54.0,2025-03-20,Standard,6308.9,34,user10592@example.com,Yes
+10499,Elias Holm,Denmark,Aalborg,27.0,2026-04-07,Standard,21118.0,11,user10499@example.com,Yes
+10228,William Pedersen,Denmark,Copenhagen,68.0,2025-04-23,Basic,"29,153.91 DKK",11,user10228@example.com,Yes
+10166,Sofie Larsen,Denmark,AARHUS,46.0,"Jan 06, 2025",Basic,7045.7,7,user10166@example.com,Yes
+10628,William Pedersen,Denmark,Copenhagen,38.0,2024-08-09,Basic,23084.2,14,user10628@example.com,Yes
+10142,Amina Hassan,Denmark,Copenhagen,23.0,2025-04-15,PREMIUM,5670.88,12,user10142@example.com,yes
+10282,Ida Sørensen,Denmark,Aarhus,30.0,"Mar 05, 2024",PREMIUM,17007.87,20,user10282@example.com,Yes
+10007,Laura Thomsen,Norway,Bergen,46.0,2024-06-04,Standard,2654.21,9,user10007@example.com,No
+10510,Leila Osman,Denmark,Aarhus,30.0,19/05/2025,Standard,16866.88,34,user10510@example.com,No
+10331,Adam Ali,Sweden,Gothenburg,,2026-03-04,Standard,"17,853.63 DKK",6,user10331@example.com,Yes
+10585,Lina Osman,Germany,Berlin,51.0,2024-05-06,Basic,6190.11,3,user10585@example.com,yes
+10502,Maya Lindberg,Germany,Berlin,25.0,2025-12-19,Standard,,11,user10502@example.com,Yes
+10493,Emil Johansson,Sweden,Malmö,56.0,2026-04-24,Premium,10334.26,22,user10493@example.com,YES
+10001,Elena Müller,Norway,Bergen,64.0,2024-10-31,Basic,12611.57,10,user10001@example.com,Yes
+10154,Alexander Rasmussen,Denmark,Aarhus,53.0,2026-06-04,Basic,7284.84,7,user10154@example.com,Yes
+10299,Leo Wagner,Norway,Oslo,61.0,2024-10-03,Standard,17105.95,21,user10299@example.com,No
+10258,Elena Müller,Denmark,Aalborg,60.0,2025-12-31,Standard,5292.94,23,user10258@example.com,Yes
+10590,Oscar Berg,Denmark,Copenhagen,63.0,2026-05-07,Standard,14282.15,3,user10590@example.com,Yes
+10635,William Pedersen, Denmark ,København,,2024-05-26,Premium,6752.69,22,user10635@example.com,N
+10011,Amina Hassan,Denmark,Aalborg,70.0,2025-01-26,BASIC,10515.6,4,user10011@example.com,No
+10537,adam hassan,Denmark,Aarhus,49.0,2024-06-08,Basic,20320.86,15,user10537@example.com,No
+10045,Lucas Kristensen,Norway,Bergen,42.0,2024-06-22,Standard,10040.83,8,user10045@example.com,Yes
+10242,Alexander Rasmussen,Norway,Oslo,56.0,2025-07-26,Standard,6698.32,32,user10242@example.com,Yes
+10532,Leila Osman,Sweden,Gothenburg,42.0,24/07/2024,Standard,30270.07,3,user10532@example.com,Yes
+10130,Daniel Brown,Sweden,Malmö,42.0,2024-12-21,Premium,7188.28,16,user10130@example.com,Yes
+10233,Adam Hassan,Germany,Berlin,34.0,2025-12-16,Basic,4003.06,2,user10233@example.com,Yes
+10250,Emma Jensen,Denmark,Aarhus,37.0,2025-02-08,Standard,,10,user10250@example.com,Yes
+10571,Mads Nielsen,Denmark,Copenhagen,51.0,"Apr 23, 2024",BASIC,2999.91,19,user10571@example.com,Yes
+10176,Anna Schmidt,Denmark,,34.0,2026-05-31,Standard,12697.17,9,user10176@example.com,Yes
+10010,Nora Eriksson,Denmark,aarhus,62.0,2025-01-04,premium,20507.74,29,user10010@example.com,Yes
+10020,Daniel Martin,Sweden,Malmö,69.0,2026-06-03,Standard,19522.35,18,,Yes
+10423,  Maya Patel ,Denmark,,38.0,2025-06-12,Standard,23989.79,5,user10423@example.com,Yes
+10292,Emil Johansson,Denmark,Odense,48.0,2025-06-06,Premium,13481.87,31,user10292@example.com,Yes
+10227,Anna Schmidt,Denmark,Aarhus,37.0,"May 07, 2025",Standard,21697.42,23,user10227@example.com,Yes
+10524,Victor Lindström,Sweden,Malmö,51.0,"Apr 24, 2024",Standard,"4,635.47 DKK",32,user10524@example.com,Yes
+10383,Mads Nielsen,Norway,Oslo,61.0,2024-02-03,Basic,16438.93,12,user10383@example.com,Yes
+10166,Sofie Larsen,Denmark,AARHUS,46.0,"Jan 06, 2025",Basic,7045.7,7,user10166@example.com,Yes
+10586,Lucas Kristensen,Sweden,Gothenburg,69.0,2025-10-14,Standard,"6,622.00 DKK",7,user10586@example.com,Yes
+10248,Leo Wagner,Denmark,Aalborg,38.0,2025-03-04,Standard,13104.23,9,user10248@example.com,Yes
+10071,Victor Lindström,Denmark,Copenhagen,60.0,2024-03-17,Standard,9123.8,23,user10071@example.com,No
+10299,Leo Wagner,Norway,Oslo,61.0,2024-10-03,Standard,17105.95,21,user10299@example.com,No
+10547,Emily Wilson,Denmark,Aalborg,52.0,2025-09-10,Standard,25372.51,32,user10547@example.com,Yes
+10377,William Pedersen,Germany,Hamburg,44.0,"Nov 24, 2025",Premium,11826.62,22,user10377@example.com,Yes
+10278,Daniel Brown,Denmark,AALBORG,68.0,2024-03-22,Premium,5308.66,24,user10278@example.com,Yes
+10587,Maya Patel,Denmark,Copenhagen,59.0,25/06/2024,Basic,9071.72,3, user10587@example.com ,Yes
+10529,Lina Osman,Norway,Oslo,45.0,2026-06-05,Standard,"7,604.25 DKK",32,user10529@example.com,Y
+10491,Yasmin Ahmed,Sweden,Stockholm,36.0,21/07/2024,Basic,12300.7,14,user10491@example.com,Yes
+10393,Maya Patel,Sweden,Stockholm,28.0,2026-04-16,Standard,15034.16,18,user10393@example.com,Yes
+10633,Leo Wagner,Denmark,Copenhagen,54.0,2025-06-01,Premium,5583.87,22,user10633@example.com,Yes
+10454,Daniel Martin,Denmark,Odense,37.0,2026-03-26,Basic,24983.97,15,user10454@example.com,Yes
+10611,Clara Andersen,Denmark,Odense,69.0,2025-05-04,Standard,14889.07,33,user10611@example.com,Yes
+10534,Clara Andersen,Sweden,Malmö,22.0,14/11/2025,Standard,19718.44,17,user10534@example.com,No
+10185,Emily Wilson,Norway,Oslo,67.0,2024-07-30,Standard,,9,user10185@example.com,Yes
+10624,Oscar Berg,Denmark,Copenhagen,59.0,2025-03-03,Basic,9889.81,3,user10624@example.com,Yes
+10461,Daniel Martin,Denmark,Odense,31.0,2024-11-19,Standard,20267.81,17,USER10461@EXAMPLE.COM,Yes
+10290,Mads Nielsen,Denmark,Aalborg,28.0,2026-01-14,Standard,4921.36,-3,user10290@example.com,No
+10596,Nora Eriksson,Denmark,København,27.0,05/03/2025,Standard,15968.26,7,user10596@example.com,Yes
+10180,Emily Wilson,Sweden,Malmö,20.0,2024-09-28,PREMIUM,15240.56,32,user10180@example.com,Yes
+10064,Ida Sørensen,Norway,Bergen,44.0,2024-07-21,Standard,8879.31,3,user10064@example.com,Yes
+10617,Mathias Poulsen,Sweden,Gothenburg,18.0,2025-04-14,Premium,"9,921.85 DKK",24,user10617@example.com,Yes
+10106,Freja Møller,Sweden,Stockholm,33.0,01/02/2025,Standard,"8,297.46 DKK",7,user10106@example.com,Yes
+10434,Nora Eriksson,Norway,Oslo,23.0,2025-05-27,Premium,4095.73,28,user10434@example.com,Yes
+10575,Emily Wilson,Norway,Oslo,71.0,2025-06-18,Basic,13581.32,26,user10575@example.com,Yes
+10257,Victor Lindström,Norway,Oslo,48.0,2026-01-23,Standard,9865.75,7,user10257@example.com,Yes
+10215,Alexander Rasmussen,Sweden,Gothenburg,28.0,2024-11-19, Premium,25463.67,14,user10215@example.com,Yes
+10070,Noah Khan,Denmark,Copenhagen,70.0,2024-02-01,Standard,12898.24,33,user10070@example.com,Yes
+10191,Laura Thomsen,Germany,Berlin,68.0,2026-05-03,Basic,11516.78,33,user10191@example.com,Yes
+10314,Elias Hussein,Denmark,Odense,30.0,2025-12-17,Premium,7289.87,16,user10314@example.com,Yes
+10610,Adam Hassan,Denmark,Odense,30.0,2025-01-30,Premium,7238.05,6,user10610@example.com,Yes
+10518,Laura Thomsen,Sweden,Gothenburg,52.0,05/11/2025,Standard,13128.14,5,user10518@example.com,Yes
+10226,Mads Nielsen,Germany,Berlin,63.0,2024-07-13,Standard,19616.13,14,user10226@example.com,Yes
+10319,Sofie Larsen,Denmark,Aarhus,63.0,2025-11-10,Standard,11245.89,10,user10319@example.com,Yes
+10235,Isabella Romano,Germany,,38.0,2025-01-01,Standard,17065.61,31,,Yes
+10404,Lucas Kristensen,Denmark,Copenhagen,69.0,2025-04-09,Standard,9070.52,34,user10404@example.com,Yes
+10409,Alexander Rasmussen,Denmark,Odense,51.0,28/10/2024,Basic,1522.64,28, user10409@example.com ,No
+10446,Omar Mohamed,Sweden,Stockholm,65.0,2025-07-31,Basic,,9,user10446@example.com,No
+10530,Omar Mohamed,Denmark,Aarhus,60.0,2025-02-05,Basic,19317.18,5,user10530@example.com,Yes
+10463,Emma Jensen,Germany,Berlin,38.0,27/12/2025,Standard,9093.26,25,user10463@example.com,Yes
+10601,Sara Mohamed, Denmark ,Odense,67.0,unknown,Standard,8385.42,17,user10601@example.com,Yes
+10470,Lucas Kristensen,Denmark,Copenhagen,21.0,2024-08-24,Basic,"17,331.78 DKK",3,user10470@example.com,Yes
+10081,Omar Mohamed,Sweden,Stockholm,24.0,2025-07-06,Premium,5384.06,34,user10081@example.com,No
+10157,Omar Mohamed,Denmark,Aalborg,65.0,15/11/2024,Standard,11627.75,10,user10157@example.com,Yes
+10445,Ida Sørensen,Denmark,Copenhagen,28.0,21/12/2024,Standard,17095.61,15,USER10445@EXAMPLE.COM,Yes
+10391,Elena Müller,Sweden,Stockholm,,2025-10-11,Premium,15000.04,33,user10391@example.com,Yes
+10211,Emil Johansson,Sweden,Gothenburg,45.0,09/01/2025,Standard,4854.85,21,user10211@example.com,Yes
+10097,Lina Osman,Denmark,Copenhagen,24.0,2025-06-26,Standard,7981.95,20,user10097@example.com,Yes
+10414,Lucas Garcia,Germany,Hamburg,57.0,2026-05-15,Basic,"13,097.11 DKK",31,user10414@example.com,No
+10396,Elias Hussein,Denmark,Copenhagen,52.0,2025-04-20,Premium,8928.62,33,user10396@example.com,Yes
+10613,Emma Jensen,Germany,Berlin,36.0,10/08/2024,Basic,9509.62,14,user10613@example.com,Yes
+10388,Emily Wilson,Germany,Berlin,60.0,2025-03-25,Standard,11025.74,21,user10388@example.com,no
+10146,Mads Nielsen, Denmark ,Ålborg,39.0,2025-12-16,Standard,16473.32,1,user10146@example.com,Yes
+10341,Sofia Rossi,Denmark,Copenhagen,56.0,2024-04-10,Basic,10731.23,15,user10341@example.com,Yes
+10506,Mads Nielsen,Norway,Oslo,34.0,2024-10-15,Standard,8903.57,19,user10506@example.com,Yes
+10394,Daniel Martin,Sweden,Gothenburg,64.0,18/03/2025,Standard,11865.32,17,,Yes
+10054,Amira Khalil,Sweden,Stockholm,38.0,2024-09-03,Standard,7751.65,11,user10054@example.com,Yes
+10621,Daniel Martin,Norway,Bergen,55.0,2024-02-11,PREMIUM,"12,689.42 DKK",14,user10621@example.com,Yes
+10630,Leila Osman,Norway,Bergen,63.0,2024-02-08,Basic,8385.45,30,user10630@example.com,Yes
+10322,Emma Jensen,Denmark,Copenhagen,59.0,2026-01-27,Standard,13603.14,11,user10322@example.com,Yes
+10606,Alexander Rasmussen,Norway,Oslo,54.0,2025-10-02,Standard,14040.37,30,user10606@example.com,Yes
+10561,Lucas Garcia,Denmark,,,2024-07-24,Standard,14624.91,4,user10561@example.com,Yes
+10061,Oliver Hansen,Sweden,Stockholm,41.0,2025-04-07,Premium,6951.96,26,user10061@example.com,No
+10084,Victor Lindström,Denmark,Odense,61.0,2026-02-02,Standard,1297.81,12, user10084@example.com ,No
+10432,Amira Khalil,Norway,Oslo,32.0,2024-01-29,Standard,12557.86,25,user10432@example.com,No
+10626,William Pedersen,Denmark,Copenhagen,59.0,27/06/2025,Standard,5986.79,6,user10626@example.com,yes
+10560,Lucas Garcia,Denmark,Aarhus,65.0,2025-06-29,Standard,11705.37,4,user10560@example.com,Yes
+10360,Laura Thomsen,Sweden,Stockholm,43.0,2025-08-30,Basic,21846.99,20,user10360@example.com,Yes
+10629,Lucas Kristensen,Denmark,Aalborg,57.0,2024-06-09,Premium,7916.19,28,user10629@example.com,Yes
+10053,Elias Holm,Norway,Oslo,71.0,2025-06-25,Basic,9450.63,30,user10053@example.com,Yes
+10398,William Pedersen,Denmark,Aalborg,36.0,2025-06-25,Basic,,28,user10398@example.com,No
+10479,Anna Schmidt,Sweden,Gothenburg,29.0,2024-11-02,Standard,5041.78,18,USER10479@EXAMPLE.COM,Yes
+10280,Lina Osman,Norway,Bergen,70.0,2024-04-18,Standard,13774.63,6,user10280@example.com,Yes
+10239,Sofia Rossi,Denmark,Copenhagen,29.0,2025-02-02,Standard,7518.08,24, user10239@example.com ,Yes
+10536,William Pedersen,Denmark,Copenhagen,18.0,2025-05-13,Standard,15223.49,3,user10536@example.com,Yes
+10008,Alexander Rasmussen,Norway,Bergen,31.0,2024-06-24,Premium,"8,360.89 DKK",19,,Yes
+10634,Leila Osman,Denmark,Odense,18.0,2025-02-13,Premium,10001.41,23,user10634@example.com,Yes
+10295,Sofia Rossi,Norway,Bergen,32.0,2024-02-03,Standard,12379.19,27,user10295@example.com,No
+10082,Mathias Poulsen,Denmark,Aarhus,23.0,2026-02-04,Standard,18029.8,10,user10082@example.com,No
+10542,Oliver Hansen,Denmark,Copenhagen,39.0,2024-06-08,Standard,15614.84,29,user10542@example.com,Yes
+10443,Maya Lindberg,Sweden,Stockholm,,2024-06-24,Standard,11016.63,18,user10443@example.com,Yes
+10540,Adam Ali,Norway,Oslo,44.0,2024-10-11,Standard,7976.94,19,user10540@example.com,Yes
+10368,Elias Hussein,Sweden,Stockholm,,2025-01-03,Basic,8374.2,25,user10368@example.com,Yes
+10134,Adam Ali,Denmark,odense,29.0,2026-04-01,Premium,3040.28,34,user10134@example.com,Yes
+10009,Emily Wilson,DK,Odense,46.0,2025-05-22,Basic,15458.02,26,user10009@example.com,Yes
+10291,Lucas Garcia,Norway,Oslo,26.0,23/10/2025,Standard,11293.78,28,user10291@example.com,Yes
+10094,Lucas Garcia,Denmark,Odense,40.0,2025-07-11,Basic,9384.17,5,user10094@example.com,no
+10473,Sofia Petersen,Denmark,Aarhus,30.0,06/11/2025,Standard ,17656.35,8,user10473@example.com,Yes
+10558,Yasmin Ahmed,Denmark,Odense,71.0,2024-05-19,Basic,8300.18,28,user10558@example.com,Yes
+10527,Sofie Larsen,Germany,Berlin,62.0,2025-04-24,basic,25472.88,23,user10527@example.com,Yes
+10450,Sofia Rossi,Sweden,Gothenburg,,2025-11-14,Standard,8545.24,24,user10450@example.com,Yes
+10485,Lucas Garcia,Denmark,Copenhagen,36.0,2024-10-17,Standard,14067.06,2,user10485@example.com,Yes
+10480,Elias Hussein,Denmark,Copenhagen,42.0,2025-07-29,Basic,8827.64,30,user10480@example.com,Yes
+10597,Adam Ali,Sweden,Gothenburg,30.0,2025-11-25,Basic,19643.16,11,user10597@example.com,Yes
+10492,Victor Lindström,Sweden,Malmö,39.0,2024-09-29,Premium,12851.27,19,user10492@example.com,Yes
+10503,Maya Lindberg,Germany,Hamburg,18.0,"May 14, 2026",Standard,-2500,25,user10503@example.com,Yes
+10359,Leo Wagner,Denmark,Copenhagen,45.0,2025-07-09,Standard,12211.68,15,user10359@example.com,No
+10357,Leo Wagner,Norway,Oslo,23.0,2024-10-21,Standard,10028.69,21,user10357@example.com,Yes
+10133,Freja Møller,Sweden,Malmö,68.0,2026-05-14,Standard,10860.58,17,user10133@example.com,Yes
